@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    font-family: 'inter';
+}
+    /*CSS - Header page whit title and description*/
+header{
+    /*Header Container aspects*/
+    width: 100%;
+    height: 475px;
+    background-color: #303030;
+    /*Texts aspects*/
+    color: white;
+}
+#container-texts{
+    display: grid;
+    grid-auto-flow: row;
+    grid-row: auto;    
+    gap: 20px;
+    padding: 167px 0px 0px 77px;
+
+}
+#title-header{
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+}
+#text-header{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+}
+    /*CSS - First section with demonstrative data*/
+#container-infos{
+    width: 100%;
+    height: 300px;
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-content: center;
+    gap: 250px;
+}
+.title-text{
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 28px;
+}
+.description-text{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 50px;
+}
+
+
+
+
