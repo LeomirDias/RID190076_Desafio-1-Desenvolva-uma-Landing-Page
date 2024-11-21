@@ -24,7 +24,7 @@ Como rodar o projeto
 
     Acesse o link de deploy do projeto.
     
-    LINK
+    https://arq-arquitetura.netlify.app/
 
 Estrutura de diretórios
 
