@@ -21,8 +21,7 @@ Como rodar o projeto
     Pré Requisitos
     - Internet;
     - Navegador web;
-
-    Acesse o link de deploy do projeto.
+    - Acesse o link de deploy do projeto.
     
     https://arq-arquitetura.netlify.app/
 
@@ -37,4 +36,5 @@ Estrutura de diretórios
 
 Código fonte
     Para acesso ao repositório com o código fonte:
-
+    
+    https://github.com/LeomirDias/RID190076_Desafio-1-Desenvolva-uma-Landing-Page
