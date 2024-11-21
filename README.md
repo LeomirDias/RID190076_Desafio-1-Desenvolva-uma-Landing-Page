@@ -8,6 +8,7 @@ Este projeto é o primeiro desafio do curso de Tecnologia da Escola DNC.
     3. Como rodar o projeto
     4. Estrutura de diretórios 
     5. Código fonte
+    6. Dados coletados
 
 Sobre
     
@@ -43,3 +44,7 @@ Código fonte
     Para acesso ao repositório com o código fonte:
     
     https://github.com/LeomirDias/RID190076_Desafio-1-Desenvolva-uma-Landing-Page
+
+Dados coletados
+
+    https://docs.google.com/spreadsheets/d/1uY1xoyey8CMrYSO34hCAEAY9koNGj7jBILu3lIFrES0/edit?gid=0#gid=0
