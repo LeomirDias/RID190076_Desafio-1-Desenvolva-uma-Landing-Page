@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    font-family: 'inter';
+}
+    /*CSS - Header page whit title and description*/
+header{
+    height: 475px;
+    background-color: #303030;
+    color: white;
+}
+#container-texts{
+    display: grid;
+    grid-auto-flow: row;
+    grid-row: auto;    
+    gap: 20px;
+    padding: 167px 0px 0px 77px;
+
+}
+#title-header{
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+}
+#text-header{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+}
+    /*CSS - First section with demonstrative data*/
+#container-infos{
+    height: 300px;
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-content: center;
+    gap: 250px;
+}
+.title-text{
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 28px;
+}
+.description-text{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 50px;
+}
+#container-presentation{
+    display: grid;
+    grid-auto-flow: column;
+    grid-column: auto; 
+    align-items: center;
+    justify-content: center;
+    width: 100%;   
+}
+/*CSS - Second section with presentation*/
+#container-presentation {
+    height: 700px;
+}
+
+#container-presentation-text {
+    flex: 1; 
+    padding-right: 60px;
+    
+}
+
+#title-presentation {
+    font-size: 40px; 
+    font-weight: 500;
+    margin-bottom: 55px;
+    line-height: 20px; 
+}
+
+#text-presentation {
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 30px;
+}
+#picture{
+    width: 510px;
+    height: 606px;
+    border-radius: 30px;
+}
+/*CSS - Second section with forms*/
+
+footer{
+    background-color: #303030;
+    text-align: center;
+    padding: 50px;
+}
+
+#title-footer{
+    font-weight: 700;
+    font-size: 32px;
+    color: white;
+    margin: 50px    ;
+
+}
+form{
+    display: grid;
+    row-gap: 50px;
+    justify-content: center;
+}
+
+input{
+    width: 400px;
+    height: 50px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 20px;
+    color: black;
+}
+button{
+    background-color: #C07212;
+    width: 250px;
+    height: 50px;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: bolder;
+    color: white;
+    margin: 0 auto; 
+}
+button:hover{
+    cursor: pointer;
+    transform: translateY(-2px);
+    box-shadow: 0px 15px 20px #05103081;
+    transition-duration: 0.10;
+}
+
+
+
+
+
